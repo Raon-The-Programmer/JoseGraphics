@@ -35,7 +35,7 @@ Steps to Run
 
     Clone the Repository:
 
-    git clone https://github.com/JoseGraphics/SmartShoppingApp.git  
+    git clone https://github.com/Raon-The-Programmer/JoseGraphics.git 
 
     Set Up Backend:
         Navigate to the API/ folder and follow the setup instructions in README.md.
@@ -61,5 +61,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For any queries, feel free to reach out:
 
-    Email: contact@josegraphics.com
-    Founder: Vigneswaran R
+    Email: rahuljohn1211@gmail.com
+    Founder: Rahul John J
